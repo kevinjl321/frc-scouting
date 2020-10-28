@@ -1,0 +1,451 @@
+Match Number,Team Number,Starting Location,Auto Balls [Low],Auto Balls [1],Auto Balls [2/3],Auto Balls [4],Auto Balls [5],Auto Balls [6],Auto Balls [Acquired],Auto End Location,Tele Balls [Low],Tele Balls [1],Tele Balls [2/3],Tele Balls [4],Tele Balls [5],Tele Balls [6],Wheel Spin,Wheel Color Match,Defender,Target
+1,4854,Inline with Opposing Trench,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,None,None
+1,8179,Right of Goal,0,0,0,0,0,0,None,Alliance Trench,0,0,0,0,0,0,0,0,None,None
+1,5577,Inline with Opposing Trench,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,None,None
+1,3538,Right of Goal,0,0,2,0,0,0,None,Alliance Trench,0,0,10,13,0,0,0,0,None,None
+1,6013,Left of Goal,0,3,0,0,0,0,None,Middle,2,0,0,0,0,0,0,0,Light,None
+2,548,Inline with Goal,0,0,3,0,0,0,None,Goal Zone,0,2,0,0,0,0,0,0,None,None
+2,7191,Inline with Opposing Trench,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,Light,None
+2,7856,Left of Goal,0,0,0,0,0,0,None,Middle,0,0,0,0,0,0,0,0,None,None
+3,4768,Inline with Goal,0,0,3,0,0,0,None,Goal Zone,0,0,2,0,0,0,0,0,None,Light
+2,5498,Inline with Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,None,None
+3,33,Inline with Goal,0,0,1,0,0,0,None,Auto Line,0,0,6,2,0,0,0,0,None,None
+3,4840,Inline with Opposing Trench,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+3,835,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,Light,None
+4,5695,Inline with Opposing Trench,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+4,2591,Right of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+4,5090,Left of Goal,0,0,0,0,0,0,None,Goal Zone,5,0,0,0,0,0,0,0,None,None
+1,5197,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,Heavy,None
+2,240,Right of Goal,0,0,2,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,None,Light
+3,7145,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,Heavy,None
+4,5532,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,None,None
+4,94,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,None,None
+5,8280,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,Light,None
+5,4758,Inline with Goal,0,0,0,0,0,0,None,Goal Zone,2,0,0,0,0,0,0,0,None,None
+6,3414,Inline with Goal,0,0,0,0,0,0,None,Middle,0,0,0,0,0,0,0,0,None,None
+5,3096,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,3,0,0,0,0,0,0,0,None,None
+6,7865,Inline with Opposing Trench,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,Light,None
+5,1481,Inline with Alliance Trench,0,0,3,0,0,0,None,Goal Side Middle,1,0,7,0,0,0,0,0,None,None
+6,7716,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,None,None
+2,6120,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,1,0,0,0,0,0,0,None,None
+3,5531,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+4,4130,Right of Goal,0,0,3,0,0,0,None,Alliance Trench,0,0,0,0,0,0,0,0,None,None
+5,247,Inline with Goal,0,0,2,0,0,0,None,Alliance Trench,0,0,0,0,0,0,0,0,None,None
+5,573,Right of Goal,0,0,2,0,0,0,None,Goal Side Middle,0,0,2,0,0,0,0,0,None,None
+6,5214,Right of Goal,0,0,0,0,0,0,None,Goal Zone,3,0,0,0,0,0,0,0,None,None
+6,7232,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+7,835,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+7,3538,Inline with Alliance Trench,0,0,2,0,0,0,None,Goal Side Middle,0,0,10,0,0,0,0,0,None,Light
+8,573,Inline with Alliance Trench,0,0,3,0,0,0,None,Goal Side Middle,0,0,3,0,0,0,0,0,None,None
+9,5090,Left of Goal,0,0,0,0,0,0,None,Goal Zone,4,0,0,0,0,0,0,0,None,None
+10,4840,Inline with Opposing Trench,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,Heavy,None
+7,5577,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,1,0,0,0,0,0,None,Light
+8,5532,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+9,6013,Inline with Goal,0,0,0,0,0,0,None,Middle,2,0,0,0,0,0,0,0,None,None
+10,240,Inline with Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,Light
+11,7145,Right of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,Heavy,None
+11,5695,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+12,4758,Right of Goal,2,0,0,0,0,0,None,Goal Zone,2,0,0,0,0,0,0,0,None,None
+7,7692,Left of Goal,0,0,0,0,0,0,None,Middle,0,0,0,0,0,0,0,0,Light,None
+8,4854,Left of Goal,0,0,0,0,0,0,None,Middle,0,0,0,0,0,0,0,0,Light,None
+9,4768,Inline with Goal,0,0,3,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+10,5498,Inline with Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,Heavy
+11,7232,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+12,7191,Inline with Opposing Trench,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,Light,None
+13,8179,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,1,0,0,0,0,0,None,None
+13,548,Inline with Goal,0,0,2,0,0,0,None,Goal Side Middle,0,9,0,0,0,0,0,0,None,None
+7,4130,Inline with Alliance Trench,0,0,2,0,0,0,None,Alliance Trench,0,0,0,0,0,0,0,0,Light,None
+8,6120,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,7,0,0,0,0,0,None,None
+9,8280,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,Heavy,None
+10,2591,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+11,1481,Inline with Goal,0,0,1,0,0,0,None,Goal Side Middle,0,5,2,0,0,0,0,0,None,None
+12,7692,Left of Goal,0,0,0,0,0,0,None,Middle,3,0,0,0,0,0,0,0,None,None
+13,7865,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,None,None
+6,6742,Left of Goal,0,0,0,0,0,0,None,Goal Zone,3,0,0,0,0,0,0,0,None,None
+7,5756,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,Light
+8,7856,Inline with Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+9,5214,Left of Goal,0,0,0,0,0,0,None,Goal Zone,2,0,0,0,0,0,0,0,None,None
+10,7716,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,Heavy,None
+11,6742,Left of Goal,0,0,0,0,0,0,None,Goal Zone,3,0,0,0,0,0,0,0,Light,Light
+12,94,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+13,2591,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,1,0,0,0,0,0,None,None
+14,4854,Left of Goal,0,0,0,0,0,0,None,Middle,0,0,0,0,0,0,0,0,Light,None
+14,240,Inline with Goal,0,0,0,0,0,0,None,Auto Line,0,0,3,0,0,0,0,0,None,None
+12,33,Inline with Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,None,None
+13,247,Inline with Goal,0,0,2,0,0,0,None,Goal Side Middle,0,0,2,0,0,0,0,0,None,None
+14,3414,Inline with Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,5,0,0,0,0,0,None,None
+15,8280,Inline with Opposing Trench,0,0,0,0,0,0,None,Goal Side Middle,0,0,5,0,0,0,0,0,None,None
+16,7232,Inline with Opposing Trench,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+15,6013,Inline with Goal,0,0,2,0,0,0,None,Middle,0,0,0,0,0,0,0,0,None,None
+16,7865,Inline with Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,None,None
+14,5756,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,Light,Light
+17,5090,Left of Goal,0,0,0,0,0,0,None,Goal Zone,5,0,0,0,0,0,0,0,None,Light
+17,6742,Left of Goal,0,0,0,0,0,0,None,Goal Zone,1,0,0,0,0,0,0,0,None,None
+9,3414,Inline with Alliance Trench,0,0,0,0,0,0,None,Goal Side Middle,0,0,2,0,0,0,0,0,None,None
+15,5532,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+16,548,Inline with Goal,0,0,0,0,0,0,None,Goal Side Middle,0,11,0,0,0,0,0,0,None,None
+17,33,Right of Goal,0,0,3,0,0,0,None,Alliance Trench,0,0,0,0,0,0,0,0,Heavy,None
+10,5756,Left of Goal,0,0,0,0,0,0,None,Middle,0,0,0,0,0,0,0,0,None,Light
+11,5197,Left of Goal,0,0,0,0,0,0,None,Middle,0,0,0,0,0,0,0,0,Light,None
+12,5531,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,1,0,0,0,0,0,None,None
+13,3096,Inline with Opposing Trench,0,0,0,0,0,0,None,Goal Side Middle,3,0,0,0,0,0,0,0,None,None
+14,1481,Inline with Alliance Trench,0,0,1,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+15,5531,Right of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,None,None
+16,4758,Inline with Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,Light
+17,5197,Left of Goal,0,0,0,0,0,0,None,Middle,0,0,0,0,0,0,0,0,None,None
+18,6120,Inline with Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+18,5214,Left of Goal,0,0,0,0,0,0,None,Goal Zone,2,0,0,0,0,0,0,0,None,None
+17,7145,Inline with Opposing Trench,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,Light,None
+18,573,Inline with Goal,0,0,0,0,0,0,None,Auto Line,0,0,4,0,0,0,0,0,None,None
+19,4768,Inline with Goal,0,0,3,0,0,0,None,Goal Zone,0,0,2,0,0,0,0,0,None,None
+19,8179,Inline with Opposing Trench,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+19,247,Right of Goal,0,0,3,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,Heavy,None
+19,7191,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,None,None
+15,7716,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,Light
+16,4840,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,Heavy,None
+17,7692,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+18,5577,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,2,0,0,0,0,0,None,None
+19,5695,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,2,0,0,0,0,0,0,Light,Light
+20,7716,Inline with Opposing Trench,0,0,0,0,0,0,None,HP Side Middle,0,0,0,0,0,0,0,0,None,None
+20,5090,Left of Goal,0,0,0,0,0,0,None,Goal Zone,5,0,0,0,0,0,0,0,None,None
+20,5498,Inline with Goal,0,0,2,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+20,8280,Left of Goal,0,0,0,0,0,0,None,HP Side Middle,0,0,0,0,0,0,0,0,None,None
+21,6120,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,6,0,0,0,0,0,0,None,None
+21,4130,Inline with Alliance Trench,0,0,5,0,0,0,None,Alliance Trench,0,0,8,0,0,0,0,0,None,None
+14,835,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,2,0,0,0,0,0,None,None
+15,4130,Inline with Goal,0,0,0,0,0,0,None,Auto Line,0,0,3,1,0,0,0,0,None,None
+16,7856,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,1,0,0,0,0,0,None,None
+17,5498,Inline with Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,None,None
+18,94,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+19,3538,Inline with Goal,0,0,2,0,0,0,Alliance Trench,Alliance Trench,0,0,10,3,0,0,0,0,None,None
+20,5531,Inline with Goal,0,0,1,0,0,0,None,Auto Line,0,0,1,0,0,0,0,0,None,None
+21,7232,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+22,94,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+21,5197,Left of Goal,0,0,0,0,0,0,None,Middle,0,0,0,0,0,0,0,0,None,None
+22,5577,Inline with Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+22,4840,Inline with Opposing Trench,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+20,548,Inline with Goal,0,0,0,0,0,0,None,Goal Side Middle,0,12,0,0,0,0,0,0,None,None
+21,33,Inline with Goal,0,0,3,0,0,0,None,Middle,0,0,10,0,0,0,0,0,None,None
+22,5695,Inline with Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+22,8179,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+23,6013,Inline with Goal,0,0,2,0,0,0,None,Middle,3,0,1,0,0,0,0,0,None,None
+23,2591,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+23,573,Inline with Goal,0,0,3,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+23,835,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+23,7191,Inline with Opposing Trench,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,Heavy,None
+24,7856,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,1,0,0,0,0,0,0,None,None
+24,5532,Inline with Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,Light,None
+24,3538,Right of Goal,0,0,3,1,0,0,Alliance Trench,Alliance Trench,0,0,0,12,0,0,0,0,None,Heavy
+25,7145,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,Light,None
+24,3414,Inline with Goal,0,0,0,0,0,0,None,Goal Zone,0,0,3,3,0,0,0,0,None,Light
+25,5214,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,3,0,0,0,0,0,0,0,None,None
+25,4768,Left of Goal,0,0,2,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+25,240,Inline with Goal,0,0,2,0,0,0,None,Goal Side Middle,0,0,4,0,0,0,0,0,None,None
+26,7865,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,Light,None
+26,6013,Inline with Goal,0,0,3,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+26,7692,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,2,0,0,0,0,0,0,0,None,None
+21,5756,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,1,0,0,0,0,0,0,Heavy,None
+22,3096,Left of Goal,0,0,0,0,0,0,None,HP Side Middle,7,0,0,0,0,0,0,0,None,None
+23,1481,Left of Goal,0,0,3,0,0,0,None,Goal Side Middle,0,3,4,0,0,0,0,0,None,None
+24,247,Inline with Goal,0,1,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,Heavy,None
+25,4758,Inline with Goal,0,0,0,0,0,0,None,Auto Line,4,0,0,0,0,0,0,0,Light,None
+26,8179,Inline with Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,2,0,0,0,0,0,None,Heavy
+26,8280,Left of Goal,0,0,0,0,0,0,None,Middle,0,0,0,0,0,0,0,0,Light,None
+27,4840,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,Heavy,None
+27,3414,Inline with Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,1,0,0,0,0,None,None
+27,548,Left of Goal,0,0,3,0,0,0,None,Goal Side Middle,0,10,0,0,0,0,0,0,None,None
+27,573,Left of Goal,0,0,3,0,0,0,None,Goal Side Middle,0,10,0,0,0,0,0,0,None,None
+24,6742,Left of Goal,0,0,0,0,0,0,None,Goal Zone,3,0,0,0,0,0,0,0,None,None
+25,4854,Inline with Opposing Trench,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+26,6120,Inline with Opposing Trench,0,0,0,0,0,0,None,Goal Side Middle,0,9,0,0,0,0,0,0,None,Light
+27,5531,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,None,None
+28,4758,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+27,5756,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+28,1481,Inline with Alliance Trench,0,0,0,0,0,0,None,Goal Side Middle,0,0,2,0,0,0,0,0,None,Light
+28,6742,Inline with Goal,0,0,0,0,0,0,None,Middle,1,0,0,0,0,0,0,0,None,None
+28,5577,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+28,835,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+29,5498,Inline with Goal,0,0,0,0,0,0,None,Alliance Trench,0,0,0,0,0,0,0,0,None,None
+28,7716,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,Heavy,None
+29,33,Inline with Goal,0,0,3,0,0,0,None,Alliance Trench,0,0,11,0,0,0,0,0,None,None
+29,7856,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,1,0,0,0,0,0,None,None
+30,7191,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+30,7692,Left of Goal,0,0,0,0,0,0,None,Middle,1,0,0,0,0,0,0,0,None,None
+31,7865,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,Heavy,None
+29,94,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+30,7232,Left of Goal,0,0,0,0,0,0,None,Middle,0,0,0,0,0,0,0,0,None,None
+31,3538,Right of Goal,0,0,3,0,0,0,None,Auto Line,0,0,5,10,0,0,0,0,None,Light
+30,5532,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+31,5090,Left of Goal,0,0,0,0,0,0,None,Goal Zone,6,0,0,0,0,0,0,0,Light,Light
+31,7145,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,Light,None
+29,5197,Left of Goal,0,0,0,0,0,0,None,Middle,0,0,0,0,0,0,0,0,Light,None
+30,5214,Left of Goal,0,0,0,0,0,0,None,Goal Zone,3,0,0,0,0,0,0,0,None,None
+31,4768,Inline with Goal,0,0,3,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+30,240,Inline with Goal,0,0,3,0,0,0,None,Goal Side Middle,0,0,1,0,0,0,0,0,None,None
+31,3096,Inline with Goal,0,0,0,0,0,0,None,Alliance Trench,7,0,0,0,0,0,0,0,None,None
+32,4854,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,Light,None
+32,835,Right of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,2,0,0,0,0,0,None,None
+33,3414,Inline with Goal,0,0,0,0,0,0,None,Middle,0,0,0,3,0,0,0,0,None,None
+33,8179,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,1,0,0,0,0,0,None,None
+32,5695,Inline with Opposing Trench,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+33,33,Inline with Goal,0,0,0,0,0,0,None,Middle,0,0,1,2,0,0,0,0,None,None
+34,5577,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,Light
+34,5197,Inline with Opposing Trench,0,0,0,0,0,0,None,Middle,0,0,0,0,0,0,0,0,Heavy,None
+35,4840,Right of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,Light,None
+37,4768,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+35,5498,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,Light,None
+36,5756,Left of Goal,0,0,0,0,0,0,None,Middle,0,0,0,0,0,0,0,0,None,None
+36,7145,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,Light,None
+37,7865,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,Light,None
+32,247,Inline with Goal,0,0,1,0,0,0,None,Goal Side Middle,0,0,3,0,0,0,0,0,Heavy,None
+33,5531,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,Light,None
+34,573,Inline with Goal,0,0,5,0,0,0,None,Goal Side Middle,0,0,7,0,0,0,0,0,None,None
+35,3538,Inline with Goal,0,0,5,0,0,0,Alliance Trench,Alliance Trench,0,0,11,1,0,0,0,0,None,None
+36,2591,Inline with Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+37,5695,Inline with Goal,0,0,0,0,0,0,None,Goal Zone,0,0,1,0,0,0,0,0,None,None
+37,3096,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,None,None
+32,4130,Inline with Alliance Trench,0,0,3,0,0,0,None,Goal Side Middle,0,0,10,0,0,0,0,0,None,None
+33,4758,Inline with Alliance Trench,0,0,0,0,0,0,None,Middle,2,0,0,0,0,0,0,0,None,None
+34,240,Inline with Goal,0,0,3,0,0,0,None,Goal Side Middle,0,0,2,0,0,0,0,0,None,Light
+35,5214,Right of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,None,None
+36,8280,Left of Goal,0,0,0,0,0,0,None,Middle,0,0,0,0,0,0,0,0,Light,None
+37,6742,Inline with Goal,0,0,0,0,0,0,None,Goal Zone,1,0,0,0,0,0,0,0,None,None
+38,5090,Inline with Goal,0,0,0,0,0,0,None,Goal Zone,5,0,0,0,0,0,0,0,None,None
+38,6013,Inline with Goal,0,0,0,0,0,0,None,Middle,2,0,0,0,0,0,0,0,None,None
+38,94,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+38,7716,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,Light,None
+39,8179,Left of Goal,0,0,0,0,0,0,None,Goal Zone,2,0,1,0,0,0,0,0,None,None
+34,1481,Inline with Goal,0,0,3,0,0,0,None,Auto Line,0,0,3,0,0,0,0,0,None,None
+36,7191,Inline with Alliance Trench,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,None,None
+37,7692,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+38,247,Inline with Alliance Trench,0,0,3,0,0,0,None,Goal Side Middle,0,0,4,0,0,0,0,0,None,None
+39,3538,Right of Goal,0,0,3,0,0,0,None,Alliance Trench,0,0,0,0,0,0,0,0,None,None
+39,573,Inline with Goal,0,0,0,0,0,0,None,Auto Line,0,0,3,0,0,0,0,0,None,None
+40,7232,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+40,5577,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+40,3414,Inline with Alliance Trench,0,0,0,0,0,0,None,Middle,0,0,11,0,0,0,0,0,None,None
+40,2591,Inline with Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,4,0,0,0,0,0,None,None
+39,7145,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,Light,None
+40,7856,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,1,0,0,0,0,0,None,None
+32,548,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,11,0,0,0,0,0,0,None,None
+33,7232,Left of Goal,0,0,0,0,0,0,None,Middle,0,3,0,0,0,0,0,0,None,None
+34,5532,Left of Goal,0,0,0,0,0,0,None,Middle,0,0,0,0,0,0,0,0,Heavy,None
+35,4130,Inline with Goal,0,0,0,0,0,0,None,Middle,0,0,9,0,0,0,0,0,None,Light
+36,7856,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,2,0,0,0,0,0,0,None,None
+37,4854,Inline with Alliance Trench,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,None,None
+38,6120,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,6,0,0,0,0,0,0,None,None
+39,4130,Inline with Alliance Trench,0,0,3,2,0,0,None,Alliance Trench,0,0,8,0,0,0,0,0,None,Light
+40,5498,Inline with Goal,0,0,0,0,0,0,None,Goal Zone,0,1,1,0,0,0,0,0,None,None
+41,5695,Inline with Goal,0,0,0,0,0,0,None,Goal Zone,0,0,2,0,0,0,0,0,None,None
+41,5197,Left of Goal,0,0,0,0,0,0,None,Middle,0,0,0,0,0,0,0,0,Light,None
+41,5214,Inline with Goal,0,0,0,0,0,0,None,Goal Zone,5,0,0,0,0,0,0,0,None,None
+41,7716,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+41,4768,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,Light,None
+41,94,Inline with Opposing Trench,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+42,5532,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,None,None
+42,5531,Inline with Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,None,None
+42,1481,Right of Goal,0,0,1,0,0,0,None,Auto Line,0,3,7,0,0,0,0,0,None,None
+42,7692,Left of Goal,0,0,0,0,0,0,None,Middle,0,0,0,0,0,0,0,0,None,None
+42,5090,Inline with Goal,0,0,0,0,0,0,None,Middle,11,0,0,0,0,0,0,0,None,None
+42,6120,Inline with Alliance Trench,0,0,0,0,0,0,None,Goal Side Middle,0,0,12,0,0,0,0,0,None,None
+43,8280,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,Heavy,None
+43,6742,Left of Goal,0,0,0,0,0,0,None,Goal Zone,2,0,0,0,0,0,0,0,Light,None
+43,4840,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,Heavy,None
+43,247,Right of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,2,0,0,0,0,0,None,None
+43,835,Right of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,Heavy
+43,240,Inline with Goal,0,0,3,0,0,0,None,Goal Side Middle,0,0,0,1,0,0,0,0,None,None
+44,4854,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,Light,None
+44,5756,Left of Goal,0,0,0,0,0,0,None,Middle,0,0,0,0,0,0,0,0,None,None
+44,33,Inline with Goal,0,0,3,0,0,0,None,Alliance Trench,0,0,14,0,0,0,0,0,None,None
+44,548,Inline with Goal,0,0,2,0,0,0,None,Goal Side Middle,0,9,0,0,0,0,0,0,None,Heavy
+44,6013,Inline with Goal,0,0,3,0,0,0,None,Middle,1,0,0,0,0,0,0,0,None,None
+44,7865,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,None,None
+45,7191,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,Light,None
+45,3414,Inline with Goal,0,0,3,0,0,0,None,Goal Side Middle,0,0,0,2,0,0,0,0,None,Light
+45,7716,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,Light,None
+45,4130,Inline with Alliance Trench,0,0,4,1,0,0,Alliance Trench,Alliance Trench,0,0,10,1,0,0,0,0,None,None
+46,3538,Inline with Goal,0,0,3,2,0,0,Alliance Trench,Alliance Trench,0,0,0,15,0,0,0,0,None,Light
+46,4840,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,Light,None
+47,6742,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,Light,None
+47,247,Right of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,None,None
+45,3096,Left of Goal,0,0,0,0,0,0,None,Middle,3,0,0,0,0,0,0,0,None,None
+46,2591,Inline with Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,Light,None
+47,5197,Left of Goal,0,0,0,0,0,0,None,Middle,0,0,0,0,0,0,0,0,Light,None
+47,835,Inline with Goal,0,0,0,0,0,0,None,Goal Zone,1,0,0,0,0,0,0,0,None,Heavy
+46,6120,Inline with Alliance Trench,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,None,None
+47,573,Inline with Goal,0,0,2,0,0,0,None,Goal Side Middle,0,0,1,2,0,0,0,0,None,None
+46,5531,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,None,Heavy
+47,7865,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,Heavy,None
+48,7692,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,5,0,0,0,0,0,0,0,None,None
+48,4768,Right of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,4,0,0,0,0,0,None,None
+48,94,Inline with Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+49,4854,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,Light,None
+49,5498,Inline with Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,Heavy
+49,4758,Inline with Goal,0,0,0,0,0,0,None,Alliance Trench,0,0,0,0,0,0,0,0,None,None
+50,3096,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,3,0,0,0,0,0,0,0,None,None
+50,5695,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+47,5214,Inline with Goal,0,0,0,0,0,0,None,Goal Zone,7,0,0,0,0,0,0,0,None,None
+48,6013,Inline with Goal,0,0,3,0,0,0,None,Middle,3,0,0,0,0,0,0,0,None,None
+49,8179,Inline with Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,1,0,0,0,0,0,None,None
+50,548,Inline with Goal,0,0,1,0,0,0,None,Goal Side Middle,0,4,2,0,0,0,0,0,None,None
+50,33,Inline with Goal,0,0,0,0,0,0,None,Auto Line,0,0,2,0,0,0,0,0,Heavy,None
+48,7856,Left of Goal,0,0,0,0,0,0,None,Middle,2,0,0,0,0,0,0,0,None,None
+49,5532,Left of Goal,0,0,0,0,0,0,None,Middle,0,0,0,0,0,0,0,0,Heavy,None
+51,5090,Left of Goal,0,0,0,0,0,0,None,Goal Zone,8,0,0,0,0,0,0,0,None,None
+50,5577,Inline with Goal,0,0,0,0,0,0,None,Goal Zone,0,0,1,0,0,0,0,0,None,None
+51,6013,Right of Goal,0,0,3,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+51,7232,Inline with Goal,0,0,3,0,0,0,None,Goal Side Middle,0,0,2,0,0,0,0,0,Heavy,None
+51,240,Inline with Goal,0,0,3,0,0,0,None,Goal Side Middle,0,0,1,0,0,0,0,0,None,None
+52,4854,Left of Goal,0,0,0,0,0,0,None,Middle,0,0,0,0,0,0,0,0,None,None
+52,5197,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,Light,None
+52,2591,Right of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+48,5756,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,1,0,0,0,0,0,None,None
+49,7191,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,Light
+50,8280,Inline with Alliance Trench,0,0,0,0,0,0,None,Alliance Trench,0,0,0,0,0,0,0,0,Heavy,None
+51,7145,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,Heavy,None
+52,4130,Inline with Goal,0,0,3,0,0,0,None,Alliance Trench,0,0,13,0,0,0,0,0,None,Light
+51,573,Left of Goal,0,0,3,0,0,0,None,Goal Side Middle,0,0,2,0,0,0,0,0,Heavy,None
+52,7692,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,2,0,0,0,0,0,0,0,None,None
+52,3414,Inline with Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+53,6742,Inline with Goal,3,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,Heavy,None
+53,94,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,Light,None
+53,548,Inline with Goal,0,1,0,0,0,0,None,Goal Side Middle,0,11,0,0,0,0,0,0,None,None
+53,835,Inline with Goal,0,1,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,Light
+54,7191,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+54,5756,Inline with Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+54,7232,Inline with Goal,0,0,0,0,0,0,None,Middle,0,1,0,0,0,0,0,0,None,None
+53,1481,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,5,1,0,0,0,0,0,None,None
+54,5090,Right of Goal,0,0,0,0,0,0,None,Goal Zone,8,0,0,0,0,0,0,0,None,None
+54,7145,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+55,7865,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,Light,None
+55,4768,Inline with Goal,0,0,3,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+55,8280,Left of Goal,0,0,0,0,0,0,None,Middle,0,0,0,0,0,0,0,0,Light,None
+55,5532,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,Light,None
+55,5498,Inline with Goal,0,0,2,0,0,0,None,Goal Zone,0,0,1,0,0,0,0,0,None,Light
+56,5531,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,None,None
+57,1481,Inline with Goal,0,0,0,0,0,0,None,Goal Side Middle,0,2,0,0,0,0,0,0,None,None
+56,5695,Inline with Opposing Trench,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,Heavy
+57,7856,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,3,0,0,0,0,0,0,None,Light
+58,7865,Inline with Opposing Trench,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,Heavy,None
+58,4130,Inline with Alliance Trench,0,0,3,0,0,0,Alliance Trench,Alliance Trench,0,0,9,2,0,0,0,0,None,Light
+59,3414,Right of Goal,0,0,2,0,0,0,None,Goal Side Middle,0,0,0,9,0,0,0,0,None,None
+56,3096,Inline with Alliance Trench,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,Light,None
+57,4840,Inline with Alliance Trench,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,Light,None
+58,6120,Inline with Opposing Trench,0,0,0,0,0,0,None,Goal Side Middle,0,11,0,0,0,0,0,0,None,None
+59,5695,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,4,0,0,0,0,0,None,None
+60,1481,Inline with Alliance Trench,0,3,0,0,0,0,None,Goal Side Middle,0,0,7,0,0,0,0,0,None,Light
+60,5214,Inline with Goal,0,0,0,0,0,0,None,Goal Zone,7,0,0,0,0,0,0,0,None,None
+61,2591,Inline with Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,Light
+59,5532,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,Heavy,None
+60,5197,Inline with Opposing Trench,0,0,0,0,0,0,None,Middle,0,0,0,0,0,0,0,0,Heavy,None
+61,3096,Inline with Opposing Trench,0,0,0,0,0,0,None,Auto Line,12,0,0,0,0,0,0,0,None,None
+61,6013,Inline with Goal,0,0,3,0,0,0,None,Middle,1,0,0,0,0,0,0,0,None,None
+62,94,Inline with Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+62,3538,Right of Goal,0,0,2,3,0,0,Alliance Trench,Alliance Trench,0,0,0,15,0,0,0,0,None,Heavy
+63,5577,Inline with Goal,0,0,2,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+65,6013,Inline with Goal,0,2,0,0,0,0,None,Middle,0,0,5,0,0,0,0,0,None,None
+66,8280,Inline with Alliance Trench,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,Light,None
+56,5214,Right of Goal,0,0,0,0,0,0,None,Goal Zone,5,0,0,0,0,0,0,0,None,Light
+57,8179,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,2,0,0,0,0,0,None,None
+63,7856,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,1,0,0,0,0,0,None,None
+64,33,Inline with Goal,0,0,0,0,0,0,Opposing Trench,Auto Line,0,0,0,0,0,0,0,0,None,None
+65,6742,Inline with Goal,0,0,0,0,0,0,None,Goal Zone,1,0,0,0,0,0,0,0,Heavy,None
+66,5090,Inline with Goal,0,0,0,0,0,0,None,Goal Zone,4,0,0,0,0,0,0,0,None,None
+67,4758,Inline with Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,None,None
+67,7856,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+68,5214,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+69,94,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+70,7692,Inline with Alliance Trench,0,0,0,0,0,0,None,Alliance Trench,1,0,0,0,0,0,0,0,None,None
+71,6120,Inline with Alliance Trench,0,0,0,0,0,0,None,Goal Side Middle,0,4,0,0,0,0,0,0,None,None
+72,33,Inline with Goal,0,0,3,0,0,0,Alliance Middle,Goal Side Middle,0,0,9,4,0,0,0,0,None,None
+73,6013,Inline with Goal,0,0,3,0,0,0,None,Middle,0,0,2,0,0,0,0,0,None,None
+74,5577,Right of Goal,0,0,2,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,Heavy
+62,835,Inline with Goal,0,0,0,0,0,0,None,Goal Zone,0,0,2,0,0,0,0,0,None,None
+63,7716,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,None,None
+64,3096,Left of Goal,0,0,0,0,0,0,None,Auto Line,13,0,0,0,0,0,0,0,None,None
+65,8179,Inline with Goal,0,0,0,0,0,0,None,Middle,0,0,0,0,0,0,0,0,None,None
+66,4840,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+67,4130,Inline with Alliance Trench,0,0,5,0,0,0,Alliance Trench,Alliance Trench,0,0,12,0,0,0,0,0,None,None
+68,2591,Inline with Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+69,1481,Inline with Goal,0,0,3,0,0,0,None,Goal Side Middle,0,1,8,0,0,0,0,0,None,None
+70,5577,Inline with Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,None,Light
+71,2591,Inline with Goal,0,0,1,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+72,573,Inline with Goal,0,0,0,0,0,0,None,Auto Line,0,0,7,0,0,0,0,0,None,None
+73,3538,Inline with Goal,0,0,3,2,0,0,Alliance Trench,Alliance Trench,0,0,9,0,0,0,0,0,None,None
+74,7145,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,Light,None
+75,4758,Inline with Goal,0,0,0,0,0,0,None,Middle,2,0,0,0,0,0,0,0,None,None
+76,3096,Left of Goal,0,0,0,0,0,0,None,Auto Line,12,0,0,0,0,0,0,0,None,None
+56,3538,Right of Goal,0,0,3,3,0,0,None,Alliance Trench,0,0,25,0,0,0,0,0,None,Light
+57,7716,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,None,None
+58,7191,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,Light,None
+59,573,Inline with Goal,0,0,1,0,0,0,None,Goal Side Middle,0,0,4,0,0,0,0,0,None,Heavy
+60,5090,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,Light,Light
+61,4758,Left of Goal,0,0,0,0,0,0,None,Goal Zone,1,0,0,0,0,0,0,0,None,None
+62,8280,Right of Goal,0,0,0,0,0,0,None,Alliance Trench,0,0,0,0,0,0,0,0,Light,None
+64,7145,Inline with Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,Light,None
+65,835,Inline with Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+66,7692,Left of Goal,0,0,0,0,0,0,None,Middle,3,0,0,0,0,0,0,0,None,None
+67,548,Inline with Goal,0,0,4,0,0,0,None,Goal Side Middle,0,10,0,0,0,0,0,0,Light,None
+68,33,Inline with Goal,0,0,2,0,0,0,None,Middle,0,0,2,5,0,0,0,0,None,None
+69,4854,Left of Goal,0,0,0,0,0,0,None,Middle,0,0,0,0,0,0,0,0,None,None
+70,7145,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+71,5214,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,3,0,0,0,0,0,0,0,None,None
+72,7865,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,Light,None
+73,1481,Left of Goal,0,2,1,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+74,4840,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,Light,None
+75,5090,Left of Goal,0,0,0,0,0,0,None,Goal Zone,4,0,0,0,0,0,0,0,None,None
+76,7191,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,Light,None
+68,3538,Inline with Goal,0,0,3,0,0,0,Alliance Trench,Alliance Trench,0,0,17,0,0,0,0,0,None,None
+69,7865,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,Heavy,None
+70,7716,Inline with Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,None,None
+71,8179,Inline with Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,Heavy,None
+72,4130,Inline with Goal,0,0,3,0,0,0,Alliance Trench,Alliance Trench,0,0,12,0,0,0,0,0,None,Light
+73,4768,Inline with Goal,0,0,2,0,0,0,None,Goal Zone,0,0,1,0,0,0,0,0,None,None
+74,5532,Left of Goal,0,0,0,0,0,0,None,Middle,0,0,0,0,0,0,0,0,Light,None
+75,4854,Inline with Opposing Trench,0,0,0,0,0,0,None,Middle,0,0,0,0,0,0,0,0,Heavy,None
+76,8280,Inline with Alliance Trench,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,Heavy,None
+59,6742,Right of Goal,3,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,Light,None
+59,5756,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+60,548,Inline with Goal,0,0,0,0,0,0,None,Goal Zone,0,15,0,0,0,0,0,0,None,None
+61,4840,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+62,4854,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,Heavy,None
+63,7692,Left of Goal,0,0,0,0,0,0,None,Middle,0,0,0,0,0,0,0,0,Heavy,None
+64,3414,Right of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,7,0,0,0,0,None,None
+65,7232,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+66,5197,Left of Goal,0,0,0,0,0,0,None,Middle,0,0,0,0,0,0,0,0,None,None
+67,5695,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,Heavy,None
+68,247,Inline with Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+53,4758,Left of Goal,0,0,0,0,0,0,None,Auto Line,2,0,0,0,0,0,0,0,Light,None
+69,240,Right of Goal,0,0,3,0,0,0,None,Goal Side Middle,2,0,0,0,0,0,0,0,None,None
+70,7191,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,Light,Heavy
+54,247,Inline with Goal,0,0,3,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,Light
+55,5577,Inline with Goal,0,0,0,0,0,0,None,Auto Line,0,0,1,0,0,0,0,0,None,Light
+71,5695,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,1,0,0,0,0,0,Heavy,None
+72,240,Inline with Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,1,0,0,0,None,None
+73,5531,Inline with Alliance Trench,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+56,240,Inline with Goal,0,0,3,0,0,0,None,Goal Side Middle,0,0,1,0,0,0,0,0,None,None
+74,247,Inline with Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,Light
+57,33,Left of Goal,0,0,2,0,0,0,None,Middle,0,0,15,0,0,0,0,0,None,None
+75,7716,Inline with Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+76,5756,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,None
+58,4768,Inline with Goal,0,0,3,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,Heavy
+59,5498,Left of Goal,0,0,0,0,0,0,None,Goal Zone,0,0,2,0,0,0,0,0,None,Light
+60,8179,Left of Goal,0,3,0,0,0,0,None,Goal Side Middle,0,0,2,0,0,0,0,0,None,Light
+61,240,Inline with Goal,0,0,3,0,0,0,None,Goal Side Middle,0,0,3,0,0,0,0,0,Light,Light
+62,7232,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,None,Heavy
+63,5531,Inline with Goal,0,0,0,0,0,0,None,Auto Line,1,0,1,0,0,0,0,0,None,Heavy
+64,6120,Inline with Alliance Trench,0,0,0,0,0,0,None,Goal Side Middle,0,2,0,0,0,0,1,0,None,None
+65,5756,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,2,0,0,0,0,0,0,0,None,Light
+66,573,Inline with Goal,0,0,3,0,0,0,None,Goal Side Middle,0,0,7,0,0,0,0,0,None,Light
+67,4768,Left of Goal,0,0,3,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
+68,5532,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,0,0,0,0,0,0,Heavy,None
+69,5531,Left of Goal,0,0,0,0,0,0,None,Auto Line,0,0,0,0,0,0,0,0,None,Light
+70,548,Inline with Goal,0,0,1,0,0,0,None,Goal Side Middle,0,9,0,0,0,0,0,0,None,None
+71,5498,Inline with Goal,0,0,2,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,Heavy
+72,3414,Inline with Goal,0,0,3,0,0,0,None,Goal Side Middle,0,0,1,2,0,0,0,0,None,None
+73,7232,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,1,0,0,0,0,0,0,Light,None
+74,6742,Inline with Goal,2,0,0,0,0,0,None,Goal Zone,1,0,0,0,0,0,0,0,Light,None
+75,835,Left of Goal,0,0,0,0,0,0,None,Goal Zone,1,0,0,0,0,0,0,0,None,Light
+76,5197,Inline with Goal,0,0,0,0,0,0,None,Middle,0,0,0,0,0,0,0,0,None,None
+75,7856,Left of Goal,0,0,0,0,0,0,None,Goal Side Middle,0,0,2,0,0,0,0,0,None,None
+76,94,Inline with Goal,0,0,0,0,0,0,None,Goal Zone,0,0,0,0,0,0,0,0,None,None
