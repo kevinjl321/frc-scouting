@@ -1,5 +1,5 @@
 ## Beach Blitz Scouting Hackathon 2020
----
+
 This project was bootstrapped using TensorFlow:
 ---
 <div align="center">
