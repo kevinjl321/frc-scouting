@@ -1,7 +1,5 @@
 ## Beach Blitz Scouting Hackathon 2020
 ---
-Application that utilizes machine learning to make game predictions given a dataset. Made as a part of the 2020 Beach Blitz Scouting Hackathon.
----
 This project was bootstrapped using TensorFlow:
 ---
 <div align="center">
