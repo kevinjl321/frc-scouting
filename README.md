@@ -1,7 +1,6 @@
 ## Beach Blitz Scouting Hackathon 2020
 
 This project was bootstrapped using TensorFlow:
----
 <div align="center">
   <img src="https://www.tensorflow.org/images/tf_logo_social.png">
 </div>
