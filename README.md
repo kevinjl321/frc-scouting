@@ -21,7 +21,7 @@ This command will create a new conda environment:
 ```
 conda create -n name_of_my_env python
 ```
-Put yourself in this environment by running:
+Put yourself in the environment by running:
 
 ```
 source activate name_of_my_env
