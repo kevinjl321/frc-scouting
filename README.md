@@ -1,31 +1,38 @@
 ## Beach Blitz Scouting Hackathon 2020
 
-This project was bootstrapped using TensorFlow:
+This project was created using pandas:
 <div align="center">
-  <img src="https://www.tensorflow.org/images/tf_logo_social.png">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png">
 </div>
 
-## Install
-
-See the [TensorFlow install guide](https://www.tensorflow.org/install) for the
-[pip package](https://www.tensorflow.org/install/pip), to
-[enable GPU support](https://www.tensorflow.org/install/gpu), use a
-[Docker container](https://www.tensorflow.org/install/docker), and
-[build from source](https://www.tensorflow.org/install/source).
-
-To install the current release, which includes support for
-[CUDA-enabled GPU cards](https://www.tensorflow.org/install/gpu) *(Ubuntu and
-Windows)*:
+## Installing from PyPI
 
 ```
-$ pip install tensorflow
+$ pip install pandas
+```
+If an error persists when using the "pip" command, check that your Python is up to date, or add ```--user``` to the end of the installation command.
+
+## Installing with Miniconda
+
+Make sure you have Conda downloaded first.
+
+This command will create a new conda environment:
+
+```
+conda create -n name_of_my_env python
+```
+Put yourself in this environment by running:
+
+```
+source activate name_of_my_env
 ```
 
-A smaller CPU-only package is also available:
+Finally, install pandas:
 
 ```
-$ pip install tensorflow-cpu
+conda install pandas
 ```
 
-To update TensorFlow to the latest version, add `--upgrade` flag to the above
-commands.
+## Running the program
+
+Not interested in editing the program for yourself? Check out our Google Colaboratory [notebook](https://colab.research.google.com/drive/1IWFJB7sgHDXWiZHrEc5p08lfVaIz-cpS) where you can run it directly from your browser!
