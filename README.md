@@ -1,4 +1,4 @@
-## Beach Blitz Scouting Hackathon 2020
+## TEAM 1160A: Match Aptitude Calculator
 
 This project was created using pandas:
 <div align="center">
