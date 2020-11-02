@@ -1,4 +1,4 @@
-## TEAM 1160A: Match Aptitude Calculator
+## TEAM 1160A: Team Analytics Dashboard
 
 This project was created with the help of pandas:
 <div align="center">
