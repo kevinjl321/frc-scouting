@@ -1,6 +1,6 @@
 ## TEAM 1160A: Match Aptitude Calculator
 
-This project was created using pandas:
+This project was created with the help of pandas:
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png">
 </div>
