@@ -35,4 +35,4 @@ conda install pandas
 
 ## Running the program
 
-Not interested in editing the program for yourself? Check out our Google Colaboratory [notebook](https://colab.research.google.com/drive/1IWFJB7sgHDXWiZHrEc5p08lfVaIz-cpS) where you can run it directly from your browser!
+Not interested in installing all those libraries and configuring a workspace? Check out our Google Colaboratory [notebook](https://colab.research.google.com/drive/1IWFJB7sgHDXWiZHrEc5p08lfVaIz-cpS) where you can run it directly from your browser!
