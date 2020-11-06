@@ -12,3 +12,7 @@ checkpoint
 htmlcov
 mnist
 .idea
+
+#SECURE
+credentials.json
+token.pickle
