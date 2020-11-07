@@ -1,16 +1,16 @@
 ## TEAM 1160A: Scouting Analytics Dashboard
 
-Analyze scouting data for the FRC 2019 Game!
+Analyze scouting data for the FRC 2019 game!
 
 This project was made possible by pandas and Google Sheets API.
 <div align = "center">
-  <img src = "https://www.titaniumrobotics.com/wp-content/uploads/2019/12/Bird-Text.jpg">
+  <img src="https://www.titaniumrobotics.com/wp-content/uploads/2019/12/Bird-Text.jpg">
 </div>
 
 1. View analytics of a specified team.
       - Average match score
-      - Average score during Sandstorm
-      - Average score during Teleop
+      - Average score during sandstorm
+      - Average score during teleop
       - Defense amount
       - Defense quality
       - Amount of time dead
