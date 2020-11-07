@@ -3,7 +3,7 @@
 This project was made possible by pandas and Google Sheets API:
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" width = 300px height = 100px>
-  <img src = "https://assets-global.website-files.com/58e32bace1998d6e3fee8d74/5dfbe3b11bd3f56d754fcfa5_The-Google-Sheets-logo.-compressor.png" width = 400px height = 250px>
+  <img src = "https://assets-global.website-files.com/58e32bace1998d6e3fee8d74/5dfbe3b11bd3f56d754fcfa5_The-Google-Sheets-logo.-compressor.png" width = 400px height = 200px>
 </div>
 
 ## Running the program
