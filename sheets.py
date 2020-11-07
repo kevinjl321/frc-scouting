@@ -1,22 +1,14 @@
-from __future__ import print_function
 import pickle
 import os.path
-from googleapiclient.discovery import build
 from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
+from googleapiclient.discovery import build
 
-SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly']
-
-SAMPLE_SPREADSHEET_ID = '12PwDvuHqI2fhktM3IN_7hZs7lZmwWKz2vihlS1Evt9A'
-SAMPLE_RANGE_NAME = 'Class Data!A2:E'
-
-def main():
+def gsheet_api_check(SCOPES):
     creds = None
-
     if os.path.exists('token.pickle'):
         with open('token.pickle', 'rb') as token:
             creds = pickle.load(token)
-    
     if not creds or not creds.valid:
         if creds and creds.expired and creds.refresh_token:
             creds.refresh(Request())
@@ -26,20 +18,22 @@ def main():
             creds = flow.run_local_server(port=0)
         with open('token.pickle', 'wb') as token:
             pickle.dump(creds, token)
+    return creds
 
+def pull_sheet_data(SCOPES,SPREADSHEET_ID,RANGE_NAME):
+    creds = gsheet_api_check(SCOPES)
     service = build('sheets', 'v4', credentials=creds)
-
     sheet = service.spreadsheets()
-    result = sheet.values().get(spreadsheetId=SAMPLE_SPREADSHEET_ID,
-                                range=SAMPLE_RANGE_NAME).execute()
+    result = sheet.values().get(
+        spreadsheetId=SPREADSHEET_ID,
+        range=RANGE_NAME).execute()
     values = result.get('values', [])
-
+    
     if not values:
         print('No data found.')
     else:
-        print('Name, Major:')
-        for row in values:
-            print('%s, %s' % (row[0], row[4]))
-
-if __name__ == '__main__':
-    main()
+        rows = sheet.values().get(spreadsheetId=SPREADSHEET_ID,
+                                  range=RANGE_NAME).execute()
+        data = rows.get('values')
+        print("COMPLETE: Data copied")
+        return data
