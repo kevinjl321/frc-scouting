@@ -1,37 +1,10 @@
 ## TEAM 1160A: Team Analytics Dashboard
 
-This project was created with the help of pandas:
+This project was made possible by pandas and Google Sheets API:
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png">
+  <img src = "https://assets-global.website-files.com/58e32bace1998d6e3fee8d74/5dfbe3b11bd3f56d754fcfa5_The-Google-Sheets-logo.-compressor.png">
 </div>
-
-## Installing from PyPI
-
-```
-$ pip install pandas
-```
-If an error persists when using the "pip" command, check that your Python is up to date, or add ```--user``` to the end of the installation command.
-
-## Installing with Miniconda
-
-Make sure you have Conda downloaded first.
-
-This command will create a new conda environment:
-
-```
-conda create -n name_of_my_env python
-```
-Put yourself in the environment by running:
-
-```
-source activate name_of_my_env
-```
-
-Finally, install pandas:
-
-```
-conda install pandas
-```
 
 ## Running the program
 
