@@ -8,7 +8,6 @@ RANGE_NAME = 'B1:AL668'
 pd.set_option('display.max_rows', None)
 data = pull_sheet_data(SCOPES,SPREADSHEET_ID,RANGE_NAME)
 df = pd.DataFrame(data[1:], columns=data[0])
-df
 
 # Calculate the average score of a specified team
 # Parameter team_num: the team number of the team to find the avg score of
@@ -218,7 +217,7 @@ def view_dashboard(team_num):
             output += 'Non-existent\n'
 
         # Dead Amount
-        output += '\n\tAmount of time dead: '+ str(dead_score(team_num))+ '\n'
+        output += '\n\tAmount of time dead: '+ str(dead_score(team_num)) + '\n'
 
         print(output)
 
@@ -262,8 +261,6 @@ def choose_members():
         dsc = dead_score(team_df[i])
         team_dead_scores.append(dsc)
 
-
-    
     # data frame
     d = {'Team Number': team_df, 'Average Scores': team_scores}
     d1 = {'Team Number': team_df, 'Sandstorm Scores': team_sandstorm}
@@ -303,9 +300,3 @@ def choose_members():
     print(df7)
     print('\n')
     print(df8)
-
-
-
-
-
-
