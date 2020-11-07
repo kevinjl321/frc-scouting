@@ -2,7 +2,7 @@
 
 Analyze scouting data for the FRC 2019 game!
 
-This project was made possible by pandas and Google Sheets API.
+This project was made possible by pandas and the Google Sheets API.
 <div align = "center">
   <img src="https://www.titaniumrobotics.com/wp-content/uploads/2019/12/Bird-Text.jpg">
 </div>
