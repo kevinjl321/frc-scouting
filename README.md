@@ -2,7 +2,7 @@
 
 Analyze scouting data for the FRC 2019 game!
 
-This project was made possible by pandas and the Google Sheets API.
+This project was made possible by Pandas library and the Google Sheets API.
 <div align = "center">
   <img src="https://www.titaniumrobotics.com/wp-content/uploads/2019/12/Bird-Text.jpg">
 </div>
@@ -24,7 +24,12 @@ This project was made possible by pandas and the Google Sheets API.
       - Defense quality
       - Amount of time dead
 
-## Running the program
+## Instructions on Running the program
 
-For match scouters: simply use [this form](https://www.titaniumrobotics.com/scouting/) to input information during matches. To run the program, go to our [Google Colab notebook](https://colab.research.google.com/drive/18KuH5rOvSPtPjntUQaIzLJ1l8qGUKmII?usp=sharing). To learn more about the project, read the documentation [here](https://docs.google.com/document/d/1efseTfGmv_HbTNBcHckMpKOl697jVED2Jxq9SEXRvRI/edit).
+1) For match scouters: simply use [this form](https://www.titaniumrobotics.com/scouting/) to input information during matches. <br />
+2) To run the program, go to our [Google Colab notebook](https://colab.research.google.com/drive/18KuH5rOvSPtPjntUQaIzLJ1l8qGUKmII?usp=sharing). <br />
+**Note: To learn more about the project, read the documentation [here](https://github.com/joonyoo181/FRC-Scouting-Bot/files/9996483/Team.1160A.Documentation.w_.Sheets.API.pdf).**
+
 If you would like to contribute to this project, simply send a pull request with your contributions. If you see an issue or bug, please do not hesitate to start a new issue or email one of the developers. Thanks!
+
+Made with 🤝 (teamwork) by Jeremy, Kevin, Yuxiang
